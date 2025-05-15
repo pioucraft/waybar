@@ -7,17 +7,17 @@ modules {
 }
 
 .modules-left {
+    color: gray;
 	border-radius: 6px;
 	margin: 5px;
-	background-color: #f55b5b;
+	background-color: #0f0f0f;
 }
 
 .modules-center {
 	border-radius: 6px;
 	margin: 5px;
 	padding: 2px;
-	background-color: white;
-	color: black;
+	background-color: #0f0f0f;
 }
 
 #pulseaudio {
@@ -41,5 +41,5 @@ modules {
 .modules-right { 
 	border-radius: 6px;
 	margin: 5px;
-	background-color: #6169fa;
+    background-color: #0f0f0f;
 }
